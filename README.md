@@ -63,4 +63,14 @@ python main.py
 
 Digite perguntas no terminal e receba respostas. Para sair, digite sair, exit ou quit.
 
+### Exemplo de Uso
 
+1. Coloque seus PDFs na pasta `inputs/`.
+2. Execute o chatbot:
+   ```bash
+   python main.py
+
+Pergunte algo no terminal: 
+
+Você: Qual é o tema deste PDF?
+Chatbot: O PDF fala sobre métodos de Machine Learning aplicados a previsão de sorvetes.
