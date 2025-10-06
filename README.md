@@ -1,4 +1,4 @@
-Chatbot Baseado em PDFs 📊
+### Chatbot Baseado em PDFs 📊
 
 Visão Geral
 
@@ -73,4 +73,5 @@ Digite perguntas no terminal e receba respostas. Para sair, digite sair, exit ou
 Pergunte algo no terminal: 
 
 Você: Qual é o tema deste PDF?
+
 Chatbot: O PDF fala sobre métodos de Machine Learning aplicados a previsão de sorvetes.
